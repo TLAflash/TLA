@@ -18,8 +18,8 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import java.util.regex.Pattern
 
 class DaddyLiveTVProvider : MainAPI() {
-    override var mainUrl = "https://daddylive.mp"
-    override var name = "DaddyLive TV"
+    override var mainUrl = "https://antenacentral.store/"
+    override var name = "antenacentral"
     override val supportedTypes = setOf(TvType.Live)
     override var lang = "un"
     override val hasMainPage = true
