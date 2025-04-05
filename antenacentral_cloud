@@ -1,0 +1,20 @@
+{
+  "source": {
+    "name": "AntenaCentral",
+    "url": "https://antenacentral.store/",
+    "type": "streaming",
+    "protocol": "https"
+  },
+  "streamingConfig": {
+    "quality": "1080p",
+    "adaptiveStreaming": true,
+    "retryCount": 3,
+    "timeout": 30
+  },
+  "metadata": {
+    "title": "Antena Central Stream",
+    "description": "Live streaming from AntenaCentral",
+    "author": "Makki",
+    "tags": ["streaming", "live", "AntenaCentral"]
+  }
+}
