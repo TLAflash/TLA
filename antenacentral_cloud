@@ -2,6 +2,7 @@
   "source": {
     "name": "AntenaCentral",
     "url": "https://antenacentral.store/",
+    "shortcode": "ACentralStream",
     "type": "streaming",
     "protocol": "https"
   },
@@ -13,8 +14,8 @@
   },
   "metadata": {
     "title": "Antena Central Stream",
-    "description": "Live streaming from AntenaCentral",
+    "description": "Live streaming via shortcode",
     "author": "Makki",
-    "tags": ["streaming", "live", "AntenaCentral"]
+    "tags": ["streaming", "AntenaCentral", "live"]
   }
 }
